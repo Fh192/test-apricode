@@ -1,0 +1,23 @@
+.button {
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  color: #fafafa;
+
+  &.success {
+    background: #29a19c;
+  }
+
+  &.danger {
+    background: #f05454;
+  }
+
+  &:disabled {
+    opacity: 0.3;
+    cursor: default;
+  }
+}

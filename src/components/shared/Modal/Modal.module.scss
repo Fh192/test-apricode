@@ -1,0 +1,22 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 1050;
+  // opacity: 0;
+  // transition: opacity 200ms ease-in;
+}
+
+// .visible {
+//   opacity: 1;
+// }
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

@@ -1,0 +1,21 @@
+.filter {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  select {
+    font-weight: bold;
+    font-size: 20px;
+    color: #29a19c;
+    text-decoration: underline;
+
+    option {
+      background: #fafafa;
+    }
+
+    &.dark option {
+      background: #222831;
+    }
+  }
+}

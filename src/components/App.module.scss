@@ -1,0 +1,26 @@
+.App {
+  min-height: 100vh;
+  background: #fafafa;
+  transition: background 0.3s ease, color 0.3s ease;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #282846;
+
+  &.AppD {
+    background: #222831;
+    color: #f9f9f9;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}

@@ -1,0 +1,38 @@
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 10px 15px;
+  margin: 5px 0;
+  border-radius: 10px;
+  border: 1px solid rgba(190, 190, 199, 0.3);
+
+  &:hover .delete,
+  &:active .delete {
+    opacity: 1;
+  }
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  overflow: hidden;
+}
+
+.title {
+  overflow: hidden;
+  line-height: 19px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}

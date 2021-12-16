@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+  width: 100%;
+  background: #ffffff;
+  box-shadow: 0px 10px 25px rgba(29, 52, 54, 0.08);
+  border-radius: 10px;
+  padding: 20px;
+  transition: background 0.3s ease;
+
+  &.cardD {
+    background: #2c3440;
+  }
+}
