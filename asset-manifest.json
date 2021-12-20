@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-apricode/static/css/main.8490761d.css",
-    "main.js": "/test-apricode/static/js/main.43ac990a.js",
+    "main.css": "/test-apricode/static/css/main.9f43b469.css",
+    "main.js": "/test-apricode/static/js/main.40a9651e.js",
     "static/media/deleteIcon.svg": "/test-apricode/static/media/deleteIcon.1c636d5ef8caee4f80cb6cd46b38b0a4.svg",
     "static/media/sunIcon.svg": "/test-apricode/static/media/sunIcon.9643dd1c31a48ad0bd8431196ec3b46b.svg",
     "static/media/moonIcon.svg": "/test-apricode/static/media/moonIcon.ff4b166c1ff5ee39e28756b58d281f37.svg",
     "index.html": "/test-apricode/index.html",
     "static/media/addIcon.svg": "/test-apricode/static/media/addIcon.1cb3d03aa18fdc062fb465b5a286ee4e.svg",
     "static/media/checkMarkIcon.svg": "/test-apricode/static/media/checkMarkIcon.b9216fc3c557784aa69c.svg",
-    "main.8490761d.css.map": "/test-apricode/static/css/main.8490761d.css.map",
-    "main.43ac990a.js.map": "/test-apricode/static/js/main.43ac990a.js.map"
+    "main.9f43b469.css.map": "/test-apricode/static/css/main.9f43b469.css.map",
+    "main.40a9651e.js.map": "/test-apricode/static/js/main.40a9651e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8490761d.css",
-    "static/js/main.43ac990a.js"
+    "static/css/main.9f43b469.css",
+    "static/js/main.40a9651e.js"
   ]
 }
